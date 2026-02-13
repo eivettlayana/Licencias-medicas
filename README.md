@@ -1,2 +1,2 @@
 # Licencias-medicas
-Confirmación de licencicas medicas autorizadas, rechazadas o pendientes
+Confirmación de licencias medicas autorizadas, rechazadas o pendientes
